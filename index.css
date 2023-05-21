@@ -82,6 +82,10 @@ a {
   text-decoration: none;
 }
 
+#logo {
+  border-radius: 8px;
+}
+
 .outlineButton,
 .button,
 button {
